@@ -22,3 +22,6 @@ The fixed supply of 88 billion $PULA is allocated as follows:
 -   🏦 **10% – Treasury**: `8,800,000,000`
 -   🎉 **5% – Airdrops**: `4,400,000,000`
 -   👥 **5% – Team**: `4,400,000,000`
+---
+
+![Pepulla Tokenomics Chart](https://raw.githubusercontent.com/PepullaLabs/pepulla-docs/main/assets/tokenomics.png)
