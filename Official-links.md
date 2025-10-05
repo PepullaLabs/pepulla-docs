@@ -21,6 +21,12 @@ https://t.me/pepulla_official
 **Telegram Official Group (Community Chat):**
 https://t.me/pepulla_community
 
+**Official Sales Feed (Live):**
+https://t.me/pepulla_sales
+
+**Official YouTube Channel:**
+(Coming Soon - Subscribe for updates on our main channel!)
+
 **$PULA Smart Contract Address:**
 To be Announced (TBA). The official contract address will be published here and on our official channels ONLY. Do not trust any other source.
 
