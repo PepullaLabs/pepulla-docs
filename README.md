@@ -1,10 +1,10 @@
 # Pepulla Alpha Score™ - Official Documentation
 
-![Pepulla Docs Banner](https://raw.githubusercontent.com/PepullaLabs/pepulla-docs/main/assets/introduction.png)
+![](https://raw.githubusercontent.com/PepullaLabs/pepulla-docs/main/assets/introduction.png)
 
 Welcome to the official documentation repository for the **Pepulla Alpha Score™** platform. This repository contains the source files for our GitBook documentation.
 
----
+***
 
 ## 🚀 View The Live Documentation
 
@@ -12,31 +12,31 @@ The content in this repository is best viewed on our beautifully organized docum
 
 ### ➡️ [**Click Here to Visit the Pepulla Official Docs**](https://pepulla-alpha-score-tm-docs.gitbook.io/pepulla-alpha-score-tm-docs/)
 
-*(Note: The live site is currently private and will be made public at launch.)*
 
----
+
+***
 
 ## 📖 What's Inside?
 
 Our documentation provides a comprehensive overview of the Pepulla project, including:
 
--   🔭 **The Vision:** Understanding the problem and our unique solution.
--   🏆 **The Alpha Score™:** A deep dive into our core technology.
--   🗺️ **Roadmap:** Our journey ahead, from launch to future milestones.
--   📊 **$PULA Tokenomics:** The economics that power the ecosystem.
--   🔐 **Security & Audits:** Our commitment to the safety of our community.
--   ❓ **FAQ:** Answers to all your important questions.
+* 🔭 **The Vision:** Understanding the problem and our unique solution.
+* 🏆 **The Alpha Score™:** A deep dive into our core technology.
+* 🗺️ **Roadmap:** Our journey ahead, from launch to future milestones.
+* 📊 **$PULA Tokenomics:** The economics that power the ecosystem.
+* 🔐 **Security & Audits:** Our commitment to the safety of our community.
+* ❓ **FAQ:** Answers to all your important questions.
 
----
+***
 
 ## 💬 Get Involved
 
 We believe a strong community is an informed community. For questions, feedback, or suggestions, please join us in our official channels.
 
--   **Official Website:** `https://www.pepulla.com`
--   **Official Twitter (X):** `https://x.com/pepullaalpha`
--   **Official Telegram:** `https://t.me/pepulla_official`
+* **Official Website:** `https://www.pepulla.com`
+* **Official Twitter (X):** `https://x.com/pepullaalpha`
+* **Official Telegram:** `https://t.me/pepulla_official`
 
----
+***
 
-*This documentation is for informational purposes only and does not constitute financial or investment advice. Please always do your own research (DYOR).*
+_This documentation is for informational purposes only and does not constitute financial or investment advice. Please always do your own research (DYOR)._
