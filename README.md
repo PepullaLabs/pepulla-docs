@@ -10,7 +10,7 @@ Welcome to the official documentation repository for the **Pepulla Alpha Score�
 
 The content in this repository is best viewed on our beautifully organized documentation site.
 
-### ➡️ [**Click Here to Visit the Pepulla Official Docs**](https://pepulla-alpha-score-tm-docs.gitbook.io/pepulla-alpha-score-tm-docs/)
+### ➡️ [**Click Here to Visit the Pepulla Official Docs**](https://docs.pepulla.com/)
 
 
 
