@@ -34,7 +34,7 @@ Our documentation provides a comprehensive overview of the Pepulla project, incl
 We believe a strong community is an informed community. For questions, feedback, or suggestions, please join us in our official channels.
 
 * **Official Website:** `https://www.pepulla.com`
-* **Official Twitter (X):** `https://x.com/pepullaalpha`
+* **Official Twitter (X):** `https://x.com/pepulla_alpha`
 * **Official Telegram:** `https://t.me/pepulla_official`
 
 ***
