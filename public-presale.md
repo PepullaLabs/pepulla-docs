@@ -1,5 +1,6 @@
 ---
-description: All unsold tokens will be permanently burned.🔥
+cover: .gitbook/assets/presale.png
+coverY: 0
 ---
 
 # 🚀 Public Presale

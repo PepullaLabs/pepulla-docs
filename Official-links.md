@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/officiallinks.png
+coverY: 0
+---
+
 # Official Links
 
 ⚠️ **SECURITY WARNING:** Please bookmark this page and use it as your single source of truth for all official Pepulla links. Scammers may create fake websites and social media channels. The Pepulla team will **NEVER** DM you first and will **NEVER** ask for your private keys or funds.

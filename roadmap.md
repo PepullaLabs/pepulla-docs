@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/roadmap.png
+coverY: 0
+---
+
 # 🗺️ Roadmap
 
 Our roadmap is designed for sustainable growth and the timely delivery of a powerful platform. We are divided into four strategic phases.

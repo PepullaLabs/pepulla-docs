@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/security.png
+coverY: 0
+---
+
 # 🛡️ Security & Audits
 
 Trust and transparency are the cornerstones of the Pepulla project. We are committed to implementing the highest security standards to protect our community and their assets.

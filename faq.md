@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/faq.png
+coverY: 0
+---
+
 # ❓ Frequently Asked Questions (FAQ)
 
 ### What is the Pepulla Aggregator Platform?

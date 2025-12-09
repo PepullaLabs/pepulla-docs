@@ -1,3 +1,25 @@
+---
+cover: .gitbook/assets/welcome.png
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 🌟 Introduction
 
 A new token is born every second. Most are noise, many are traps. The rare gems are scattered across deep on-chain data, newly-formed DEX pairs, a chaotic web of launchpads, whale wallets, and endless social feeds. By the time you piece it all together, the alpha is gone.

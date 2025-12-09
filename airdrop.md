@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/airdrops.png
+coverY: 0
+---
+
 # 🎉 Airdrop
 
 You better believe it! At Pepulla, we believe in rewarding our most active and loyal supporters who help build the project from the ground up.
