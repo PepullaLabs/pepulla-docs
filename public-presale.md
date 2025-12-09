@@ -1,10 +1,14 @@
+---
+description: All unsold tokens will be permanently burned.🔥
+---
+
 # 🚀 Public Presale
 
 The $PULA public presale is your first and best opportunity to become a foundational member of the Pepulla community and secure your access to the platform at the lowest possible price.
 
 ### Key Details
 
-* **🗓️ Sale Window**: Around Christmas 2026 (subject to market conditions).
+* **🗓️ Sale Window**: December 2025 - January 2026 (Live Now!)
 * **💰 Tokens Available**: Up to 35% of total supply (Hard Cap: `30,800,000,000` tokens).
 * **🪙 Accepted Currencies**: ETH, BNB, USDT, USDC.
 * **📈 Target Exchange Listing at TGE**: Uniswap.
