@@ -8,8 +8,14 @@ A full **5% of the total token supply** (`4,400,000,000 $PULA`) is allocated to 
 
 The exact criteria will be announced closer to the TGE, but rewards will be focused on:
 
--   **Early Supporters**: Participating in the presale and being active from day one.
--   **Community Engagement**: Being an active and helpful member in our Telegram and X (Twitter) communities.
--   **Platform Testers**: Participating in our Beta testing phases.
+* **Early Supporters**: Participating in the presale and being active from day one.
+* **Community Engagement**: Being an active and helpful member in our Telegram and X (Twitter) communities.
+* **Platform Testers**: Participating in our Beta testing phases.
 
 **Stay active, stay engaged, and get ready for rewards!**
+
+***
+
+#### ⚠️ Important Anti-Bot Policy
+
+To ensure fair distribution to REAL users, our Airdrop is **Activity-Based**. Simply following us is not enough. You will need to interact with our platform or Telegram bot to qualify. We ban farmers and reward true community members.
