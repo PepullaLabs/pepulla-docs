@@ -4,32 +4,14 @@
 
 Always verify that you are on the correct URL.
 
----
+***
 
-**Official Website:**
-https://www.pepulla.com
+**Official Website:**[ https://www.pepulla.com](https://www.pepulla.com/)
 
-**Official Contact Email:**
-pepulla.dev@gmail.com
+**X (Twitter):** [https://x.com/pepullaalpha](https://x.com/pepullaalpha)
 
-**X (Twitter):**
-https://x.com/pepullaalpha
+**Telegram Official Channel (Announcements):** [https://t.me/pepulla\_official](https://t.me/pepulla_official)
 
-**Telegram Official Channel (Announcements):**
-https://t.me/pepulla_official
+**$PULA Smart Contract Address:** To be Announced (TBA). The official contract address will be published here and on our official channels ONLY. Do not trust any other source.
 
-**Telegram Official Group (Community Chat):**
-https://t.me/pepulla_community
-
-**Official Sales Feed (Live):**
-https://t.me/pepulla_sales
-
-**Official YouTube Channel:**
-(Coming Soon - Subscribe for updates on our main channel!)
-
-**$PULA Smart Contract Address:**
-To be Announced (TBA). The official contract address will be published here and on our official channels ONLY. Do not trust any other source.
-
-
-
-*Stay safe, and welcome to the Pepulla Alpha community!*
+_Stay safe, and welcome to the Pepulla Alpha community!_
