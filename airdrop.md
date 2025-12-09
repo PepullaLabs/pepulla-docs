@@ -2,7 +2,7 @@
 
 You better believe it! At Pepulla, we believe in rewarding our most active and loyal supporters who help build the project from the ground up.
 
-A full **5% of the total token supply** (`4,400,000,000 $PULA`) is allocated to community airdrops.
+A full **5% of the total token supply** (<mark style="color:blue;">4,400,000,000</mark> `$PULA`) is allocated to community airdrops.
 
 ### How to Be Eligible?
 

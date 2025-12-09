@@ -4,7 +4,7 @@
 
 Pepulla Aggregator is an intelligence platform for meme coin discovery and analysis. We aggregate all critical data from launchpads, DEXs, and on-chain sources into a single, powerful dashboard, helping you spot the market's hidden gems before anyone else.
 
-### What is Meticor?
+### What is <mark style="color:$success;">Meticor</mark>?
 
 &#x20;Meticor is the true powerhouse behind the scenes. Think of Pepulla as the dashboard, and **Meticor as the engine.** It is the massive intelligence layer responsible for scraping, aggregating, and processing all the complex market data. We are proudly **Powered by Meticor**. Both platforms are currently under active development, building in synergy to deliver the ultimate crypto experience.
 

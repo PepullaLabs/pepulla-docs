@@ -6,7 +6,7 @@ Trust and transparency are the cornerstones of the Pepulla project. We are commi
 
 * **🔒 Fixed Total Supply**: A total of 88 billion $PULA tokens will be created. The minting function will be permanently disabled, ensuring no new tokens can ever be created.
 * **📜 ERC-20 Standard**: $PULA is a standard ERC-20 token on the Ethereum network, ensuring broad compatibility and security.
-*   **Security Status: PASSED** 🟢
+*   **Security Status:&#x20;**<mark style="color:green;">**PASSED**</mark> ✔
 
     We have created an interactive proof of security. Click the button below to verify our Liquidity, Ownership, and Honeypot status in real-time:
 

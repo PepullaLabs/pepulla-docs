@@ -1,42 +1,17 @@
-# Pepulla Alpha Score™ - Official Documentation
+# 🌟 Introduction
 
-![](https://raw.githubusercontent.com/PepullaLabs/pepulla-docs/main/assets/introduction.png)
+A new token is born every second. Most are noise, many are traps. The rare gems are scattered across deep on-chain data, newly-formed DEX pairs, a chaotic web of launchpads, whale wallets, and endless social feeds. By the time you piece it all together, the alpha is gone.
 
-Welcome to the official documentation repository for the **Pepulla Alpha Score™** platform. This repository contains the source files for our GitBook documentation.
+**Pepulla ends the chase.**
 
-***
+Our aggregator doesn't just watch the market—it dissects it in real-time. We:
+*   Monitor major launchpads and on-chain births instantly.
+*   Auto-scan contract security and liquidity locks.
+*   Track the first market moves and smart money flow.
+*   Measure social momentum and community growth.
 
-## 🚀 View The Live Documentation
+All this chaos is compressed into one decisive number: the **Pepulla Alpha Score™**.
 
-The content in this repository is best viewed on our beautifully organized documentation site.
+> One screen. One score. Stop reacting and start acting.
 
-### ➡️ [**Click Here to Visit the Pepulla Official Docs**](https://docs.pepulla.com/)
-
-
-
-***
-
-## 📖 What's Inside?
-
-Our documentation provides a comprehensive overview of the Pepulla project, including:
-
-* 🔭 **The Vision:** Understanding the problem and our unique solution.
-* 🏆 **The Alpha Score™:** A deep dive into our core technology.
-* 🗺️ **Roadmap:** Our journey ahead, from launch to future milestones.
-* 📊 **$PULA Tokenomics:** The economics that power the ecosystem.
-* 🔐 **Security & Audits:** Our commitment to the safety of our community.
-* ❓ **FAQ:** Answers to all your important questions.
-
-***
-
-## 💬 Get Involved
-
-We believe a strong community is an informed community. For questions, feedback, or suggestions, please join us in our official channels.
-
-* **Official Website:** `https://www.pepulla.com`
-* **Official Twitter (X):** `https://x.com/pepulla_alpha`
-* **Official Telegram:** `https://t.me/pepulla_official`
-
-***
-
-_This documentation is for informational purposes only and does not constitute financial or investment advice. Please always do your own research (DYOR)._
+Built on Ethereum, with planned expansion to Monad and Solana. Access is exclusive—holding `$PULA` unlocks the platform.
