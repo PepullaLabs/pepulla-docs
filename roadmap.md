@@ -29,7 +29,7 @@ Our roadmap is designed for sustainable growth and the timely delivery of a powe
 ### Phase 4: Token Launch and Public Release (Q2 2026)
 
 * 💥 Host the $PULA Token Generation Event (TGE).
-* 🦄 List on Uniswap and create liquidity pools.
+* 🦄Target DEX Listing **:** Uniswap (Primary Goal) & Liquidity Setup.
 * 🌍 Launch the public version of the Pepulla Aggregator.
 * 👥 Onboard the first wave of users.
 * ⛓️ Begin development for new blockchain support (Solana/Monad).
