@@ -3,29 +3,33 @@
 Our roadmap is designed for sustainable growth and the timely delivery of a powerful platform. We are divided into four strategic phases.
 
 ### Phase 1: Foundation and MVP Development (Q4 2025)
--   🏗️ Design the Aggregator platform architecture.
--   🧠 Develop Version 1.0 of the Alpha Score algorithm.
--   🌐 Launch the website and whitepaper.
--   📄 Develop the $PULA smart contract.
--   🛠️ Build an internal prototype.
 
-### Phase 2: Alpha Build and Community Growth (Q1–Q2 2026)
--   ⚙️ Develop the Aggregator backend.
--   🎨 Implement the dashboard user interface.
--   🔬 Conduct a private alpha test (invitation-only).
--   💬 Build a community on X (Twitter) and Telegram.
--   📢 Begin content marketing campaigns.
+* 🏗️ Design the Aggregator platform architecture.
+* 🧠 Develop Version 1.0 of the Alpha Score algorithm.
+* 🌐 Launch the website and whitepaper.
+* 📄 Develop the $PULA smart contract.
+* 🛠️ Build an internal prototype.
 
-### Phase 3: Private Beta and Pre-Launch (Q3 2026)
--   🧪 Launch a private beta for early supporters.
--   🛡️ Conduct smart contract audits and security enhancements.
--   🤝 Launch influencer collaboration campaigns.
--   🚀 Execute a major marketing campaign ahead of TGE.
--   🤖 Integrate the Telegram bot.
+### Phase 2: Alpha Build and Community Growth (Q1- January 2026)
 
-### Phase 4: Token Launch and Public Release (Q4 2026)
--   💥 Host the $PULA Token Generation Event (TGE).
--   🦄 List on Uniswap and create liquidity pools.
--   🌍 Launch the public version of the Pepulla Aggregator.
--   👥 Onboard the first wave of users.
--   ⛓️ Begin development for new blockchain support (Solana/Monad).
+* ⚙️ Develop the Aggregator backend.
+* 🎨 Implement the dashboard user interface.
+* 🔬 Conduct a private alpha test (invitation-only).
+* 💬 Build a community on X (Twitter) and Telegram.
+* 📢 Begin content marketing campaigns.
+
+### Phase 3: Private Beta and Pre-Launch (Q1-March 2026)
+
+* 🧪 Launch a private beta for early supporters.
+* 🛡️ Conduct smart contract audits and security enhancements.
+* 🤝 Launch influencer collaboration campaigns.
+* 🚀 Execute a major marketing campaign ahead of TGE.
+* 🤖 Integrate the Telegram bot.
+
+### Phase 4: Token Launch and Public Release (Q2 2026)
+
+* 💥 Host the $PULA Token Generation Event (TGE).
+* 🦄 List on Uniswap and create liquidity pools.
+* 🌍 Launch the public version of the Pepulla Aggregator.
+* 👥 Onboard the first wave of users.
+* ⛓️ Begin development for new blockchain support (Solana/Monad).
