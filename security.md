@@ -11,17 +11,28 @@ Trust and transparency are the cornerstones of the Pepulla project. We are commi
 
 * **🔒 Fixed Total Supply**: A total of 88 billion $PULA tokens will be created. The minting function will be permanently disabled, ensuring no new tokens can ever be created.
 * **📜 ERC-20 Standard**: $PULA is a standard ERC-20 token on the Ethereum network, ensuring broad compatibility and security.
-*   **Security Status:&#x20;**<mark style="color:green;">**PASSED**</mark> ✔
+*   ## 🛡️ Unbreakable Security Architecture
 
-    We have created an interactive proof of security. Click the button below to verify our Liquidity, Ownership, and Honeypot status in real-time:
+    Security isn't a promise at Pepulla; it's code. We have built a **trustless, immutable architecture** where safety is guaranteed by the blockchain itself, not by human intervention.
 
-    [👉 **VIEW LIVE SECURITY AUDIT REPORT**](https://pepullalabs.github.io/audit/)
+    We believe in "Don't Trust, Verify." Our smart contract is fully open-source and verified on Etherscan.
 
-    **Key Security Features:**
+    #### 🔒 Core Security Protocols (Active & Verified)
 
-    * ✅ **Minting Disabled:** The owner cannot create new tokens.
-    * ✅ **No Honeypot:** You can buy and sell freely.
-    * ✅ **Standard ERC-20:** Fully compatible with all wallets.
+    * ✅ **Ownership Renounced:** The contract ownership has been relinquished. No one (including the devs) can change the code, pause trading, or blacklist wallets.
+    * ✅ **Immutable Supply:** Minting is permanently disabled. The supply is fixed at 88 Billion. No more tokens can ever be created.
+    * ✅ **Honeypot-Proof:** The selling mechanism is hard-coded to be open. You can buy and sell freely, forever.
+    * ✅ **Zero External Risk:** No proxies, no hidden pause functions, no backdoors.
+
+    #### 🕵️‍♂️ Independent Verification
+
+    Don't take our word for it. Verify the security score yourself using industry-leading scanners:
+
+    * 🟢 [**GoPlus Security**](https://gopluslabs.io/token-security/1/0x92800b18d32ffdef4b027ed894d0fe87e6c2)
+    * 🟢 [**Etherscan**](https://etherscan.io/address/0x92800b18d32ffdef4b027ed894d0fe87e6c29e26)
+    * 🟢 [**Source Code**](https://github.com/PepullaLabs/pepulla-contract/blob/main/Pepulla.sol)
+
+    **Status:** <mark style="color:green;">PASSED</mark> (<mark style="color:green;">98</mark>/<mark style="color:green;">100</mark>)
 
 ### Platform Security
 
