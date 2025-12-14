@@ -15,7 +15,7 @@ Our roadmap is designed for sustainable growth and the timely delivery of a powe
 * 📄 Develop the $PULA smart contract.
 * 🛠️ Build an internal prototype.
 
-### Phase 2: Alpha Build and Community Growth (Q1- January 2026)
+### Phase 2: Alpha Build and Community Growth **(Q1 2026)**
 
 * ⚙️ Develop the Aggregator backend.
 * 🎨 Implement the dashboard user interface.
@@ -23,18 +23,19 @@ Our roadmap is designed for sustainable growth and the timely delivery of a powe
 * 💬 Build a community on X (Twitter) and Telegram.
 * 📢 Begin content marketing campaigns.
 
-### Phase 3: Private Beta and Pre-Launch (Q1-March 2026)
+### Phase 3: Private Beta and Pre-Launch (Q1  2026)
 
 * 🧪 Launch a private beta for early supporters.
-* 🛡️ Conduct smart contract audits and security enhancements.
+* 🛡️ Implementation of Advanced Security Infrastructure.
 * 🤝 Launch influencer collaboration campaigns.
 * 🚀 Execute a major marketing campaign ahead of TGE.
 * 🤖 Integrate the Telegram bot.
 
-### Phase 4: Token Launch and Public Release (Q2 2026)
+### Phase 4: Token Launch and Public Releas&#x65;**( Q1 /  Q2 2026)**
 
 * 💥 Host the $PULA Token Generation Event (TGE).
 * 🦄Target DEX Listing **:** Uniswap (Primary Goal) & Liquidity Setup.
 * 🌍 Launch the public version of the Pepulla Aggregator.
 * 👥 Onboard the first wave of users.
 * ⛓️ Begin development for new blockchain support (Solana/Monad).
+* **Disclaimer:** Dates are targets and subject to market conditions. We prioritize a successful launch over a rushed one.
