@@ -11,7 +11,7 @@ Always verify that you are on the correct URL.
 
 ***
 
-**Official Website:**[ https://www.pepulla.com](https://www.pepulla.com/)
+🌐**Website:**[ https://www.pepulla.com](https://www.pepulla.com/)
 
 **X (Twitter):** [https://x.com/Pepulla\_Alpha](https://x.com/Pepulla_Alpha)
 
