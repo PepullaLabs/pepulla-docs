@@ -20,7 +20,7 @@ The $PULA token is the economic engine of the Pepulla ecosystem. Its tokenomics 
 
 The fixed supply of 88 billion $PULA is allocated as follows:
 
-* ❤️ **35% – Community**: `30,800,000,000`
+* ❤️ **40% – Community**: `35,200,000,000`
 * 💻 **15% – App Development**: `13,200,000,000`
 * 📣 **15% – Marketing**: `13,200,000,000`
 * 💧 **10% – Liquidity**: `8,800,000,000`
