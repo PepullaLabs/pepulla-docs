@@ -35,7 +35,7 @@ Security is our foundation. The $PULA smart contract will be publicly audited. T
 
 ### When is the TGE (Token Generation Event)?
 
-The TGE is slated for Q2 2026. However, the exact timing depends on market conditions to ensure a successful launch for the project and its community.
+The TGE is slated for **April 2026**. However, the exact timing depends on market conditions to ensure a successful launch for the project and its community.
 
 ### Do You Have Any VCs?
 
@@ -47,4 +47,4 @@ You better believe it! As per our tokenomics, a full 5% of the total token suppl
 
 ### When Will the Pepulla Platform Go Live?
 
-The public launch is scheduled to happen concurrently with the Token Generation Event (TGE) in Q2 2026. Our team is working relentlessly to deliver a flawless tool to our community on day one.
+The public launch is scheduled to happen concurrently with the Token Generation Event (TGE) in **April 2026**. Our team is working relentlessly to deliver a flawless tool to our community on day one.
