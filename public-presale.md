@@ -9,7 +9,7 @@ The $PULA public presale is your first and best opportunity to become a foundati
 
 ### Key Details
 
-* **🗓️ Sale Window**: December 2025 - January 2026 (Live Now!)
+* **🗓️ Sale Window**: December 2025 (Live Now!)
 * **💰 Tokens Available**: Up to 35% of total supply (Hard Cap: <mark style="color:blue;">30,800,000,000</mark> tokens).
 * **🪙 Accepted Currencies**: ETH, BNB, USDT, USDC.
 * **📈 Target Exchange Listing at TGE**: Uniswap.
