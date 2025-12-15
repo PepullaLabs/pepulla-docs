@@ -13,7 +13,7 @@ Our proprietary algorithm processes dozens of critical data points in real-time 
 
 ### Key Factors in the Alpha Score:
 
-* ✅ **On-Chain Security**: We automatically scan for honeypot risks, check for verified contracts, and analyze wallet distribution for red flags.
+* **✅ On-Chain Security:** We go beyond basics. Our system performs a deep scan for **Honeypots**, checks if **Ownership is Renounced**, detects hidden **Proxies**, ensures **Minting is Disabled**, and verifies **0/0 Tax** status to guarantee total safety.
 * 💧 **Liquidity Status**: The score evaluates the health and security of a project's liquidity pool, including lock status and duration.
 * 📈 **Social Momentum**: Alpha isn't just on-chain. We track Twitter velocity, Telegram community growth, and other social metrics to measure a project's true hype potential.
 * 🐋 **Smart Money Radar**: The score gets a boost when proven alpha wallets or influential traders start buying, giving you the ultimate confirmation signal.
