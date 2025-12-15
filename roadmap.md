@@ -31,7 +31,7 @@ Our roadmap is designed for sustainable growth and the timely delivery of a powe
 * 🚀 Execute a major marketing campaign ahead of TGE.
 * 🤖 Integrate the Telegram bot.
 
-### Phase 4: Token Launch and Public Releas&#x65;**( Q1 /  Q2 2026)**
+### Phase 4: Token Launch and Public Release **(Q2 2026)**
 
 * 💥 Host the $PULA Token Generation Event (TGE).
 * 🦄Target DEX Listing **:** Uniswap (Primary Goal) & Liquidity Setup.
